@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-07T11:46:46Z" name="Suite" finished-at="2021-03-07T11:47:46Z" duration-ms="59628">
+    <groups>
+    </groups>
+    <test started-at="2021-03-07T11:46:46Z" name="Test" finished-at="2021-03-07T11:47:46Z" duration-ms="59628">
+      <class name="testcases.TestScenario">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TestScenario@2e3967ea]" started-at="2021-03-07T17:16:46Z" name="setUp" finished-at="2021-03-07T17:16:51Z" duration-ms="5112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openWebSite()[pri:0, instance:testcases.TestScenario@2e3967ea]" started-at="2021-03-07T17:16:51Z" name="openWebSite" finished-at="2021-03-07T17:17:04Z" duration-ms="12776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebSite -->
+        <test-method signature="ShopWorkFlowSteps()[pri:1, instance:testcases.TestScenario@2e3967ea]" started-at="2021-03-07T17:17:04Z" name="ShopWorkFlowSteps" finished-at="2021-03-07T17:17:44Z" duration-ms="40517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopWorkFlowSteps -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TestScenario@2e3967ea]" started-at="2021-03-07T17:17:44Z" name="teardown" finished-at="2021-03-07T17:17:46Z" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TestScenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
